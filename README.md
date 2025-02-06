@@ -4,6 +4,10 @@
 💻 **Linguagens favoritas:** CSS, HTML, Ruby on Rails  
 🤖 **Paixões:** Amo Machine Learning, IA generativa e exploração de Big Data  
 
+# Acesse meu sistema operacional, baseado em web!! Tem varias coisinhas legais!!!
+link para o projeto:"https://github.com/YasminHtml1/meu-sistema-operacional"
+e para o sistema operacional:"https://yasminhtml1.github.io/meu-sistema-operacional/"
+
 🛠️ **Habilidades técnicas:**  
 - **Front-end:** Desenvolvimento avançado em HTML, CSS, SCSS e JavaScript (ES6+), com foco em design responsivo, animações e acessibilidade.  
 - **Back-end:** Experiência sólida em Ruby on Rails, PHP e Lua, com arquitetura RESTful, APIs GraphQL e autenticação JWT.  
