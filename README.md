@@ -11,16 +11,16 @@
 
 ---
 
-Abrindo aplicativos e movendo!
+- Abrindo aplicativos e movendo!
 ![Demonstração do Sistema](demonstração2.gif)
 
 ---
 
-- link para o projeto: https://github.com/YasminHtml1/meu-sistema-operacional
+- Link para o projeto em geral: https://github.com/YasminHtml1/meu-sistema-operacional
 
 ---
 
-e para o sistema operacional: https://yasminhtml1.github.io/meu-sistema-operacional/
+- E para poder testar o sistema operacional: https://yasminhtml1.github.io/meu-sistema-operacional/
 
 ---
 🛠️ **Habilidades técnicas:**  
