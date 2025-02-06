@@ -5,22 +5,22 @@
 🤖 **Paixões:** Amo Machine Learning, IA generativa e exploração de Big Data  
 
 # Acesse meu sistema operacional, baseado em web!! Tem varias coisinhas legais!!!
-- Demonstrando a o projeto! Aqui estamos alterando o tema
+### - Demonstrando a o projeto! Aqui estamos alterando o tema
 ![Demonstrando a o projeto! Aqui estamos alterando o tema](demonstração1.gif)
 
 
 ---
 
-- Abrindo aplicativos e movendo!
+### - Abrindo aplicativos e movendo!
 ![Demonstração do Sistema](demonstração2.gif)
 
 ---
 
-- Link para o projeto em geral: https://github.com/YasminHtml1/meu-sistema-operacional
+### - Link para o projeto em geral: https://github.com/YasminHtml1/meu-sistema-operacional
 
 ---
 
-- E para poder testar o sistema operacional: https://yasminhtml1.github.io/meu-sistema-operacional/
+### - E para poder testar o sistema operacional: https://yasminhtml1.github.io/meu-sistema-operacional/
 
 ---
 🛠️ **Habilidades técnicas:**  
