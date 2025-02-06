@@ -1,54 +1,65 @@
-# Olá, sou Yasmin! 👩‍💻
+# 👋 Olá, sou Yasmin! 👩‍💻
 
-👾 **Pronomes:** ela/dela  
-💻 **Linguagens favoritas:** CSS, HTML, Ruby on Rails  
-🤖 **Paixões:** Amo Machine Learning, IA generativa e exploração de Big Data  
-
-# Acesse meu sistema operacional, baseado em web!! Tem varias coisinhas legais!!!
-### - Demonstrando a o projeto! Aqui estamos alterando o tema
-![Demonstrando a o projeto! Aqui estamos alterando o tema](demonstração1.gif)
-
+### 🔹 **Quem sou eu?**  
+🎨 Desenvolvedora full-stack apaixonada por **Machine Learning, IA generativa e exploração de Big Data**.  
+🔐 Entusiasta em **Cibersegurança** e **Pentest**, unindo tecnologia e defesa digital.  
 
 ---
 
-### - Abrindo aplicativos e movendo!
-![Demonstração do Sistema](demonstração2.gif)
+## 🚀 **Meu Sistema Operacional Web!**  
+### 🖥️ Explore meu projeto cheio de recursos e temas incríveis!  
+
+🔗 **Acesse aqui:** [Meu Sistema Operacional](https://yasminhtml1.github.io/meu-sistema-operacional/)  
+
+🔧 **Repositório GitHub:** [Código-Fonte](https://github.com/YasminHtml1/meu-sistema-operacional)  
 
 ---
 
-### - Link para o projeto em geral: https://github.com/YasminHtml1/meu-sistema-operacional
+### 📌 **Demonstração do Sistema**
+#### 🎨 **Mudança de Tema**  
+![Demonstrando o projeto! Aqui estamos alterando o tema](demonstração1.gif)  
 
-### Tela Inicial com tema Hackerkk
-![Tela Inicial do Sistema Operacional](Site2.png)
+#### 📂 **Abrindo aplicativos e movendo**  
+![Demonstração do Sistema](demonstração2.gif)  
+
+#### 🟩 **Tela Inicial - Tema Hacker**  
+![Tela Inicial do Sistema Operacional](Site2.png)  
+
+#### 💖 **Tela Inicial - Tema Frutiger Aero Pink**  
+![Tela Inicial do Sistema Operacional](Site.png)  
+
+---
+
+## 🛠️ **Habilidades Técnicas**  
+💻 **Front-end:**  
+✔ HTML, CSS, SCSS, JavaScript (ES6+)  
+✔ UI/UX Design Responsivo e Acessibilidade  
+✔ Animações e Interatividade Avançada  
+
+⚙ **Back-end:**  
+✔ Ruby on Rails, PHP, Lua  
+✔ Arquitetura RESTful e APIs GraphQL  
+✔ Autenticação JWT e segurança de aplicações  
+
+🔐 **Cibersegurança:**  
+✔ Pentest avançado (OWASP Top 10, Fuzzing, Exploits)  
+✔ Hardening de servidores Linux e Web  
+✔ Ferramentas: Metasploit, Wireshark, Burp Suite, Nmap  
+
+🛠 **Outros conhecimentos:**  
+✔ Scripting e automação com Bash e Python  
+✔ Desenvolvimento em C para sistemas embarcados  
+✔ SCADA e Segurança de Infraestrutura Crítica  
 
 ---
 
-### Tela Inicial com tema frutiger aero pink
-
-![Tela Inicial do Sistema Operacional](Site.png)
-
----
-
-### - E para poder testar o sistema operacional: https://yasminhtml1.github.io/meu-sistema-operacional/
+## 🌟 **Curiosidades sobre mim**  
+🔹 Criadora de interfaces elegantes, combinando **UI/UX** e **segurança de ponta**.  
+🔹 Apaixonada por **DevSecOps** e **Zero Trust Architecture**.  
+🔹 Sempre explorando novas formas de integrar segurança e inovação tecnológica!  
 
 ---
-🛠️ **Habilidades técnicas:**  
-- **Front-end:** Desenvolvimento avançado em HTML, CSS, SCSS e JavaScript (ES6+), com foco em design responsivo, animações e acessibilidade.  
-- **Back-end:** Experiência sólida em Ruby on Rails, PHP e Lua, com arquitetura RESTful, APIs GraphQL e autenticação JWT.  
-- **Cibersegurança:**  
-  - Pentest avançado (OWASP Top 10, fuzzing e exploiting de vulnerabilidades).  
-  - Implementação de políticas de hardening (Linux e servidores web).  
-  - Ferramentas: Metasploit, Wireshark, Burp Suite e Nmap.  
-- **Outros:**  
-  - Automação e scripting com Bash e Python.  
-  - Programação em C para manipulação de sistemas de baixo nível.  
-  - Conhecimentos em SCADA e sistemas embarcados.  
 
-🌐 **Web Development:** Sou apaixonada por desenvolvimento web, combinando a estética do front-end com a lógica robusta do back-end para criar experiências únicas. Adoro trabalhar com frameworks modernos e padrões de design como MVC, DRY e SOLID.
-
-🚀 **Cibersegurança avançada:** Além de criar, sou entusiasta de Ethical Hacking e defesa cibernética. Minha abordagem é sempre "Red Team meets Blue Team", buscando vulnerabilidades para torná-las oportunidades de aprendizado e melhoria.
-
-🎨 **Curiosidades:** Sou apaixonada por criar interfaces elegantes que combinam **UI/UX** com segurança de ponta. Sempre conectada às novidades em **DevSecOps** e **Zero Trust Architecture**.
-
-💡 **Vamos colaborar?**  
-Se você é tão apaixonado por codar, aprender e hackear de forma ética quanto eu, vamos trocar ideias e criar soluções incríveis! 🖥️
+## 📬 **Vamos conversar?**  
+Se você ama código, inovação e desafios, me chama!  
+💡 **Podemos criar algo incrível juntos!** 🚀  
