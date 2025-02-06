@@ -19,12 +19,14 @@
 ### - Link para o projeto em geral: https://github.com/YasminHtml1/meu-sistema-operacional
 
 ### Tela Inicial com tema Hackerkk
-![Tela Inicial do Sistema Operacional](Site2.png)
+![Tela Inicial do Sistema Operacional](Site2.png) ![Tela Inicial do Sistema Operacional](Site.png)
 
 ---
 
 ### Tela Inicial com tema frutiger aero pink
+
 ![Tela Inicial do Sistema Operacional](Site.png)
+
 ---
 
 ### - E para poder testar o sistema operacional: https://yasminhtml1.github.io/meu-sistema-operacional/
