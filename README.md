@@ -17,10 +17,12 @@ Abrindo aplicativos e movendo!
 ---
 
 - link para o projeto: https://github.com/YasminHtml1/meu-sistema-operacional
-e para o sistema operacional:"https://yasminhtml1.github.io/meu-sistema-operacional/"
 
 ---
 
+e para o sistema operacional: https://yasminhtml1.github.io/meu-sistema-operacional/
+
+---
 🛠️ **Habilidades técnicas:**  
 - **Front-end:** Desenvolvimento avançado em HTML, CSS, SCSS e JavaScript (ES6+), com foco em design responsivo, animações e acessibilidade.  
 - **Back-end:** Experiência sólida em Ruby on Rails, PHP e Lua, com arquitetura RESTful, APIs GraphQL e autenticação JWT.  
