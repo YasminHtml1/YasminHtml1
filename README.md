@@ -7,10 +7,11 @@
 # Acesse meu sistema operacional, baseado em web!! Tem varias coisinhas legais!!!
 - Demonstrando a o projeto! Aqui estamos alterando o tema
 ![Demonstrando a o projeto! Aqui estamos alterando o tema](demonstração1.gif)
-Abrindo aplicativos e movendo!
+
 
 ---
 
+Abrindo aplicativos e movendo!
 ![Demonstração do Sistema](demonstração2.gif)
 
 ---
