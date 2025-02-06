@@ -6,6 +6,7 @@
 
 # Acesse meu sistema operacional, baseado em web!! Tem varias coisinhas legais!!!
 - ##link para o projeto: https://github.com/YasminHtml1/meu-sistema-operacional##
+- Demonstrando a o projeto! Aqui estamos alterando o tema
 ![Demonstrando a o projeto! Aqui estamos alterando o tema](demonstração1.gif)
 
 
