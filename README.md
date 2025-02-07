@@ -1,8 +1,10 @@
 # 👋 Olá, sou Yasmin! 👩‍💻
 
 ### 🔹 **Quem sou eu?**  
-🎨 Desenvolvedora full-stack apaixonada por **Machine Learning, IA generativa e exploração de Big Data**.  
+🎨 Desenvolvedora full-stack apaixonada por **Machine Learning, Aprendizado por reforço!**.  
 🔐 Entusiasta em **Cibersegurança** e **Pentest**, unindo tecnologia e defesa digital.  
+
+
 
 ---
 
@@ -57,6 +59,11 @@
 🔹 Criadora de interfaces elegantes, combinando **UI/UX** e **segurança de ponta**.  
 🔹 Apaixonada por **DevSecOps** e **Zero Trust Architecture**.  
 🔹 Sempre explorando novas formas de integrar segurança e inovação tecnológica!  
+
+---
+
+### 🔐ODEIO REDES >:(🔐
+▄︻デ══━一 (Redes, php)
 
 ---
 
