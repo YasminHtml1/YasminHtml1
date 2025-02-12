@@ -15,7 +15,7 @@
 - **Sistema Operacional Web:**  
   [Acesse aqui](https://yasminhtml1.github.io/meu-sistema-operacional/)
 
-- **Repositório GitHub:**  
+- **Repositório GitHub(sistema operacional):**  
   [Código-Fonte](https://github.com/YasminHtml1/meu-sistema-operacional)
 
 ---
