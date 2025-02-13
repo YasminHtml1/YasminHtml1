@@ -9,7 +9,7 @@
 ## 🚀 **Meu Sistema Operacional Web**  
 ### 🖥️ Explore meu projeto cheio de recursos e temas incríveis, ou veja como aprender programação em HTML/CSS!  
 
-- **Como Aprender HTML/CSS:**  
+- **Como Aprender HTML/CSS:**
   [Clique aqui](https://yasminhtml1.github.io/Como-aprender-html-/)
   
 - **Repositorio dele!:**
@@ -17,15 +17,15 @@
 
 ---
 
-- **Sistema Operacional Web:**  
+- **Sistema Operacional Web:**
   [Acesse aqui](https://yasminhtml1.github.io/meu-sistema-operacional/)
 
-- **Repositório GitHub(sistema operacional):**  
+- **Repositório GitHub(sistema operacional):**
   [Código-Fonte](https://github.com/YasminHtml1/meu-sistema-operacional)
 
 ---
 
-### 📌 **Demonstração do Sistema**
+### 📌 **Demonstração do Sistema operacional simulado**
 #### 🎨 **Mudança de Tema**  
 ![Demonstração: alterando o tema](demonstração1.gif)
 
