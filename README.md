@@ -78,4 +78,4 @@
 
 ## 📬 **Vamos conversar?**  
 Se você ama código, inovação e desafios, me chama!  
-💡 **Podemos criar algo incrível juntos!** 🚀
+💡 **Podemos criar algo incrível juntos! Ou meu discord:"yasmin1666"** 🚀
