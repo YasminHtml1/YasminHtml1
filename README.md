@@ -25,12 +25,11 @@
 
 ---
 
-Ou meu universo 3d em javascript html e css!
+- **Ou meu universo 3d em javascript html e css!**
 
-[Acesse aqui](https://yasminhtml1.github.io/meu-sistema-operacional/)
-vai encontrar coisas legais la e muitoo divertidas ^^
-ou codigo fonte
-[Código-Fonte](https://github.com/YasminHtml1/Um-universo-em-3d-com-js-html-css)
+- vai encontrar coisas legais la e muitoo divertidas ^^ [Acesse aqui](https://yasminhtml1.github.io/meu-sistema-operacional/) 
+
+- ou codigo fonte: [Código-Fonte](https://github.com/YasminHtml1/Um-universo-em-3d-com-js-html-css) 
 
 
 
